@@ -1283,6 +1283,7 @@ header .logo a {
 @media only screen and (max-width:400px) {
 	header .top-bar {
 		left: 25px;
+		width: 32vw;
 	}
 }
 
